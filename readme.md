@@ -1,6 +1,6 @@
 <h1>Rafael Dornell Miguel</h1>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F1131670212593762390%2F&psig=AOvVaw0MtYOiu7ftrHinfHCXHZtJ&ust=1709685195721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCsjejv24QDFQAAAAAdAAAAABAE">
+<img src="<iframe src="https://giphy.com/embed/aFTt8wvDtqKCQ" width="385" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meme-shiba-inu-aFTt8wvDtqKCQ">via GIPHY</a></p>">
 
 <h2>Sobre Mim</h2>
 <p>Tenho 23 anos</p>
