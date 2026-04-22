@@ -2,9 +2,9 @@
 
 Analista de Importação de Dados | ETL | Engenharia de Dados
 
-Me chamo Rafael Dornell Miguel, mas pode me chamar de Raji. Tenho 24 anos. Atualmente curso Análise e Desenvolvimento de Sistemas e Software na Católica de Santa Catarina (2º semestre).
+Me chamo Rafael Dornell Miguel, mas pode me chamar de Raji. Tenho 25 anos. Atualmente curso Análise e Desenvolvimento de Sistemas e Software na Unisociesc de Santa Catarina (2º semestre).
 
-Atuo como Analista de Importação de Dados, trabalhando com ETL, análise de dados e desenvolvimento. Minha rotina envolve integração, transformação e automação de dados, garantindo eficiência e qualidade nos processos.
+Atuo como Analista de Importação de Dados, trabalhando com ETL, análise de dados e desenvolvimento de Software. Minha rotina envolve integração, transformação e automação de dados, garantindo eficiência e qualidade nos processos.
 
 ##
 
