@@ -172,8 +172,6 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=RafaelDornellMiguel&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-
 <br/><br/>
 
 **🐍 Contribution Snake**
