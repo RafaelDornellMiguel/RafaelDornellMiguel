@@ -162,7 +162,7 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 </tr>
 <tr>
 <td align="center">📈<br/><b>Escalabilidade</b></td>
-<td>Pensar no volume de amanhã, não só no de hoje — processamento em stream em vez de tudo em memória.</td>
+<td>Pensar no volume de amanhã, não só no de hoje processamento em stream em vez de tudo em memória.</td>
 </tr>
 </table>
 
@@ -215,7 +215,6 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 [![Abrir Playlist](https://img.shields.io/badge/▶%20Abrir%20Playlist-121212?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO0zub2o?utm_source=generator&si=90ffcf0f64e14417" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </td>
 </tr>
