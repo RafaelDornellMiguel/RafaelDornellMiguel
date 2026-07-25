@@ -170,28 +170,7 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=RafaelDornellMiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDornellMiguel&theme=tokyonight&layout=compact&custom_title=Top%20Linguagens&langs_count=9&hide_border=true" alt="Top Languages" /></td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=RafaelDornellMiguel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelDornellMiguel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelDornellMiguel&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelDornellMiguel&theme=tokyonight&utcOffset=-3" width="45%"/>
-
-<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RafaelDornellMiguel&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
