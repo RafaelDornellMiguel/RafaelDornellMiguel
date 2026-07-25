@@ -180,7 +180,6 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 
 <img src="https://raw.githubusercontent.com/RafaelDornellMiguel/RafaelDornellMiguel/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
-<sub>Requer o workflow `snake.yml` habilitado no repositório (arquivo entregue em separado).</sub>
 
 </div>
 
@@ -188,22 +187,6 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 
 <br/>
 
-## 📌 Projetos em destaque
-
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/RafaelDornellMiguel/Rafael-Miguel-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelDornellMiguel&repo=Rafael-Miguel-Portfolio&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/RafaelDornellMiguel/Ferramentas-de-Tratamento-de-Dados"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelDornellMiguel&repo=Ferramentas-de-Tratamento-de-Dados&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/RafaelDornellMiguel/CRM-WhatsApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelDornellMiguel&repo=CRM-WhatsApp&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/RafaelDornellMiguel/guia.elt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelDornellMiguel&repo=guia.elt&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=1000" width="100%"/>
 
 <br/>
 
@@ -231,6 +214,8 @@ Gosto de resolver problema uma vez, na raiz, com a estrutura certa — não de r
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 [![Abrir Playlist](https://img.shields.io/badge/▶%20Abrir%20Playlist-121212?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO0zub2o?utm_source=generator&si=90ffcf0f64e14417" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </td>
 </tr>
