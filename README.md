@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:1a1b27&text=Rafael%20Dornell%20Miguel&fontColor=ffffff&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20Software%20Engineering%20%7C%20ETL%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20IA%20aplicada&descAlignY=55&descSize=17" width="100%"/>
 
 <br/>
 
